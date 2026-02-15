@@ -1,4 +1,4 @@
-# 📦 FilesBundlerSample
+# 📂 File Bundler CLI Tool
 
 A C# CLI tool for bundling multiple files into a single output file.
 
